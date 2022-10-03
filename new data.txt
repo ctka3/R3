@@ -1,7 +1,7 @@
 { "api":[
-{"key":"🌟吾爱🌟","name":"🌟吾爱线路🌟","ext":"http://52bsj.vip:98/wuai","date":"2022-09-06 12:46:05"},
 {"key":"ctka3","name":"ctka3 normal","ext":"https://share.nite07.com/api/v3/file/source/23005/ctka%20fly.txt?sign=9cGlIPfBjpejWJjcufVf9CpvIvYNWlTrQDhXFgTC1ow%3D%3A0","date":"2022-09-06 12:46:05"},
-  {"key":"🌟云星家庭🌟","name":"🌟云星家庭版🌟","ext":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8","date":"2022-09-06 11:52:05" }, 
+ {"key":"🌟吾爱🌟","name":"🌟吾爱线路🌟","ext":"http://52bsj.vip:98/wuai","date":"2022-09-06 12:46:05"},
+ {"key":"🌟云星家庭🌟","name":"🌟云星家庭版🌟","ext":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8","date":"2022-09-06 11:52:05" }, 
   {"key":"🌟云星阿里🌟","name":"🌟️云星阿里小纸条🌟","ext":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","date":"2022-09-06 11:52:05" }, 
   {"key":"🌟刚刚🌟","name":"🌟刚刚🌟","ext":"http://刚刚.live/猫","date":"2022-09-06 11:52:05" }, 
   {"key":"️太阳","name":"☀️太阳〔XBXP爬虫线路〕","ext":"http://miaotvs.cn/osc","date":"2022-09-06 11:52:05" },
