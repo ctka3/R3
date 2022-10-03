@@ -1,0 +1,271 @@
+{ "api":[
+{"key":"🌟吾爱🌟","name":"🌟吾爱线路🌟","ext":"http://52bsj.vip:98/wuai","date":"2022-09-06 12:46:05"},
+{"key":"ctka3","name":"ctka3 normal","ext":"https://share.nite07.com/api/v3/file/source/23005/ctka%20fly.txt?sign=9cGlIPfBjpejWJjcufVf9CpvIvYNWlTrQDhXFgTC1ow%3D%3A0","date":"2022-09-06 12:46:05"},
+  {"key":"🌟云星家庭🌟","name":"🌟云星家庭版🌟","ext":"http://maoyingshi.cc/tvbox/云星日记/1.m3u8","date":"2022-09-06 11:52:05" }, 
+  {"key":"🌟云星阿里🌟","name":"🌟️云星阿里小纸条🌟","ext":"http://maoyingshi.cc/tvbox/云星日记/ali.m3u8","date":"2022-09-06 11:52:05" }, 
+  {"key":"🌟刚刚🌟","name":"🌟刚刚🌟","ext":"http://刚刚.live/猫","date":"2022-09-06 11:52:05" }, 
+  {"key":"️太阳","name":"☀️太阳〔XBXP爬虫线路〕","ext":"http://miaotvs.cn/osc","date":"2022-09-06 11:52:05" },
+  {"key":"测试有效期","name":"测试ifile_9.16","ext":"https://demo.ifile.space/sdown/CXaaQlrMYw/391b50fc4bcded73f3fa72e16b015586ca3203ed/%E6%B5%8B%E8%AF%95ifile_9.16.txt?passcode=&authtoken=cef00d8c6cb0c85976478c9f05c71c94","date":"2022-09-16 10:17:00"}, 
+   {"key":"神器推送","name":"🤪神器推送〔多条线路〕","ext":"https://神器每日推送.tk/pz.json","date":"2022-09-06 11:52:05"}, 
+{"key":"云星哔哩","name":"☁️云星哔哩〔大套餐/学堂等〕","ext":"http://maoyingshi.cc/tvbox/云星日记/bili.json","date":"2022-09-06 11:52:05" }, 
+ {"key":"jiaojiao","name":"jiapjiao线路","ext":"https://gitea.com/jiaojiao/jiaojiao/raw/branch/main/0821.json","date":"2022-09-15 22:43:05"}, 
+{"key":"🌟白嫖老白接口🌟","name": "🌟白嫖老白接口🌟",
+ "ext": "https://84k.cn/tvmao",
+ "date": "晚上11点更新接口"
+ },
+    {"key":"🐾兽爪线路",
+    "name":"🐾兽爪线路",
+    "ext":"http://52bsj.vip:81/api/v3/file/get/46060/Tv%20box%E6%BA%902.txt?sign=yI8sCYT8pei-pxp1_xwLjWOfepQ9b7c1y6Q_QD_0RY4%3D%3A0",
+    "date":"维护中"
+    },
+     {"key":" @呆萌",
+    "name":" @呆萌",
+    "ext":"http://www.dmtv.ml/mao/single.json",
+    "date":"👑更新中"
+    },
+{"key":"🦊佰欣园",
+    "name":"🦊佰欣园",
+    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxueli818913/maoTV/main/44.txt",
+    "date":"👑定期维护"
+    },
+    {"key":"🐻潇洒",
+    "name":"🐻潇洒",
+    "ext":"https://download.kstore.space/download/2863/01.txt",
+    "date":"👑定期维护"
+    },
+    {"key":"🐯啥都愁",
+    "name":"🐯啥都愁",
+    "ext":"https://shadowchiu369.github.io/TVBox/sc.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🦁缓冲99",
+    "name":"🦁缓冲99",
+    "ext":"https://agit.ai/n/b/raw/branch/a/b/c.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🐮github/liu",
+    "name":"🐮github/liuc",
+    "ext":"https://liu673cn.github.io/box/m.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🐷dxawi/github",
+    "name":"🐷dxawi/github",
+    "ext":"https://dxawi.github.io/0/0.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🐽PinkBird",
+    "name":"🐽PinkBird",
+    "ext":"https://cdn.staticaly.com/gh/XuQqu/PinkBird/main/normal.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🐸liu673cn",
+    "name":"🐸liu673cn",
+    "ext":"https://cdn.staticaly.com/gh/liu673cn/box/main/m.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🐵odlk/XC",
+    "name":"🐵odlk/XC",
+    "ext":"https://od.lk/d/MThfMzYzOTY5MTFf/XC.txt",
+    "date":"👑定期维护"
+    },
+    {"key":"🐧270",
+    "name":"🐧270",
+    "ext":"http://111.67.196.181/mtv/270.txt",
+    "date":"👑定期维护"
+    },
+    {"key":"🐦影阁",
+    "name":"🐦影阁",
+    "ext":"http://152.136.125.181:81/MM/dianbos/xianlu00.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🐤影阁二",
+    "name":"🐤影阁二",
+    "ext":"http://152.136.125.181:81/MM/dianbos/junbujianPro.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🦆影阁三",
+    "name":"🦆影阁三",
+    "ext":"http://152.136.125.181:81/MM/dianbos/zhoushijie.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🦅影阁四",
+    "name":"🦅影阁四",
+    "ext":"http://152.136.125.181:81/MM/dianbos/yeshijieB.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🍠简单",
+    "name":"🍠简单",
+    "ext":"https://0dlj.cn/丰富点",
+    "date":"👑定期维护"
+    },
+    {"key":"🍘gitcode/kuukry",
+    "name":"🍘gitcode/kuukry",
+    "ext":"https://gitcode.net/kuukey/a/-/raw/master/0.json",
+    "date":"👑定期维护"
+    },
+    {"key":"🐼猫影TV盒",
+    "name":"🐼猫影TV盒",
+    "ext":"http://maoyingshi.cc/tvbox/%E4%BA%91%E6%98%9F%E6%97%A5%E8%AE%B0/1.m3u8",
+    "date":"👑定期维护"
+    },
+    {"key":"tq线路",
+    "name":"tq",
+    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/c1tq.json",
+    "date":"👑更新中"
+    },
+    {"key":"xy线路",
+    "name":"xy",
+    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/xymc.json",
+    "date":"👑更新中"
+    },
+    {"key":"@LIUcn",
+    "name":"@LIUcn",
+    "ext":"http://www.dmtv.ml/mao/sites/liucn.json",
+    "date":"👑更新中"
+    },
+    {"key":" @Pro",
+    "name":" @Pro",
+    "ext":"https://share.nite07.com/api/v3/file/source/18035/BOX3.json?sign=m9tt9AehwEjJDDEvTovp-zk4ckhrAj89uRP02TRq2_M%3D%3A0",
+    "date":"👑更新中"
+    },
+    {"key":"🛣道长",
+    "name":"🛣道长",
+    "ext":"https://ghproxy.com/https://raw.githubusercontent.com/tv-player/tvbox-line/main/tv/pyn.json",
+    "date":"👑更新中"
+    },
+    {"key":"🐱自用",
+    "name":"🐱自用",
+    "ext":"www.szyyds.cn",
+    "date":"👑更新中"
+    },
+    {"key":"🛣BD线路",
+    "name":"🛣BD线路",
+    "ext":"https://www.fastmock.site/mock/1d52adb084c96725525077ce7380de4c/tv/bd",
+    "date":"👑维护更新中"
+    },  
+{"key":"小马移动宽带专用",
+"name": "小马移动宽带专用",
+ "ext": "http://www.yunwp.cn/api/v3/file/get/948/%E8%87%AA%E7%94%A8.json?sign=VF6UX9vq_ouEzP_94N2Skn11gSGXeFbUJAyjNMrrBRs%3D%3A0",
+ "date": "👑直播电视更新中"
+ },      
+   {"key":"老刘备","name":"老刘备〔多条线路〕","ext":"https://raw.iqiq.io/liu673cn/box/main/m.json","date":"2022-09-06 11:52:05"}, 
+{"key":"懒人","name":"👱懒人线路","ext":"http://120.53.102.254/tvb","date":"2022-09-06 11:52:05"}, 
+{"key":"白嫖","name":"💨白嫖线路〔多条线路〕","ext":"http://js.134584.xyz/json/pp87.json","date":"2022-09-06 11:52:05"},
+{"key":"HDXY","name":"HDXY路线","ext":"https://agit.ai/n/b/raw/branch/a/b/c.json","date":"2022-09-06 16:46:05"},
+{"key":"佰欣园","name":"佰欣园主线","ext":"https://raw.fastgit.org/chengxueli818913/maoTV/main/33.txt","date":"2022-09-06 16:46:05"},
+{"key":" IQIQ","name":"IQIQ路线","ext":"https://raw.iqiq.io/zhanghong1983/TVBOXZY/main/%E8%A7%82%E5%BD%B1TV/gfgr.json","date":"2022-09-06 16:46:05"},
+{"key":"二哈","name":"二哈路线","ext":"http://0454dt.com/tvbox","date":"2022-09-06 16:46:05"},
+{"key":"a584217","name":"a584217","ext":"https://gitcode.net/a584217/diy-tvbox/-/raw/master/1.json","date":"2022-09-09 04:23:00" },
+{"key":"github_736345","name":"github_736345","ext":"https://gitcode.net/github_73634519/tvbox/-/raw/master/bc.json","date":"2022-09-09 04:23:00" },
+{"key":"猫影视pro","name": "猫影视Pro版线路",
+"ext": "https://share.nite07.com/api/v3/file/source/13485/0716.txt?sign=dxhV79Bv7z8Dc-UIC75rWZ50Z1qFYUJxqOwaBsKhKQU=:0",
+
+"date": "2022-08-26 02:00:00"
+},
+{"key":"老刘备2","name": "老刘备家庭副线2",
+"ext": "https://ghproxy.com/https://raw.githubusercontent.com/liu673cn/box/main/m.json",
+
+"date": "2022-09-05 00:25:00"
+},
+{"key":"q284855646","name": "q284855646路线",
+"ext": "https://gitcode.net/q284855646/YSbox/-/raw/master/ziyong.json",
+
+"date": "2022-09-10 10:55:00"
+},
+{"key":"a584217","name": "a584217",
+"ext": "https://gitcode.net/a584217/diy-tvbox/-/raw/master/1.json",
+
+"date": "2022-09-09 04:33:00"
+},
+ {"key":"星辰影视",
+    "name":"🛣星辰影视",
+    "ext":"https://dlj2.cn/星辰影视",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"星辰",
+    "name":"😍星辰",
+    "ext":"http://47.242.90.42:8888/down/BJZPa8THuiE9",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"月光宝盒Box",
+    "name":"🤑月光宝盒Box",
+    "ext":"http://52bsj.vip:81/api/v3/file/get/29899/box2.json?sign=3cVyKZQr3lFAwdB3HK-A7h33e0MnmG6lLB9oWlvSNnM%3D%3A0",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"77",
+    "name":"🥏77",
+    "ext":"https://dlj2.cn/77",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"喵TV",
+    "name":"😎喵TV",
+    "ext":"http://miaotvs.cn/osc",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"ziyong",
+    "name":"ziyong",
+    "ext":"https://dlj2.cn/自用",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"ch",
+    "name":"ch",
+    "ext":"https://dlj2.cn/ch",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"白菜",
+    "name":"🧞‍♂️白菜",
+    "ext":"http://wp.anxwl.cn/down.php/279a2174e2ba2f0d34002af90e94ec2e.txt&zn777",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"223843",
+    "name":"🍫223843",
+    "ext":"https://wds.ecsxs.com/223843.txt",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"木极",
+    "name":"💋木极",
+    "ext":"https://pan.tenire.com/down.php/079e7bb5c863b4ba37bc07a712188423.txt&zn777",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"外链",
+    "name":"👙外链",
+    "ext":"https://out.zxglife.top/down.php/05ad8a16e71ebb56b4ff3d719ab3963f.txt&zn777",
+    "date":"👑不更新"
+    },
+    {"key":"nite07",
+    "name":"🧜‍♂️nite07",
+    "ext":"http://c.nxw.so/6Jvi4",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"影视库",
+    "name":"👜影视库",
+    "ext":"http://js.134584.xyz/json/pp87.json",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"军碟",
+    "name":"💍军碟",
+    "ext":"http://home.jundie.top:81/TVBox/yosakoi.json",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"凯速2863",
+    "name":"🐶凯速2863",
+    "ext":"http://s.nxw.so/vip",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"CH猫友",
+    "name":"🐱CH猫友",
+    "ext":"https://freed.yuanhsing.cf/TVBox/meowcf.json",
+    "date":"👑不确定是否更新"
+    },
+    {"key":"ctka","name":"ctka3 fly","ext":"https://share.nite07.com/api/v3/file/source/23005/ctka%20fly.txt?sign=9cGlIPfBjpejWJjcufVf9CpvIvYNWlTrQDhXFgTC1ow%3D%3A0","date":"2022-09-06 12:46:05"},
+{"key":"xyz","name": " 🐎18+",
+"ext": "https://pic.stackoverflow.wiki/uploadImages/122/140/12/253/2022/08/28/19/53/49035532-8b9e-43b2-8c0c-be1c0908f1c5.jpg",
+"date": "2022-08-27 23:00:00"
+},
+{"key":"yeshijie","name": " 🐉18+",
+"ext": "http://152.136.125.181:81/MM/dianbos/yeshijieC.json",
+"date": "2022-08-27 23:00:00"
+}
+
+
+] }
